@@ -41,7 +41,7 @@ An AI-powered conversational agent designed to interact with users in **English*
   - Provides accurate and contextual responses to user inputs.
   - Multilingual capabilities to make it accessible to a broader audience.
 
-- 🔗 [Repository Link](#) *(https://github.com/a1regg/AI-chatbot)*  
+- 🔗 [Repository Link] *(https://github.com/a1regg/AI-chatbot)*  
 
 ---
 
@@ -53,5 +53,5 @@ A CIFAR-10 image classification tool with a **real-time GUI** built using PyQt6.
   - Implemented a sleek GUI with drag-and-drop functionality for image prediction.
   - User-friendly interface for interactive classification.
 
-- 🔗 [Repository Link](#) *(https://github.com/a1regg/image-classifier)*  
+- 🔗 [Repository Link] *(https://github.com/a1regg/image-classifier)*
 

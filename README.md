@@ -29,29 +29,3 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
 ---
 
-## 🚀 Projects
-
-Here are two of my favorite projects:
-
-### 🤖 **AI Chatbot**
-An AI-powered conversational agent designed to interact with users in **English** and **Ukrainian**.  
-
-- **Highlights**:
-  - Built with a machine learning model trained on user intents defined in a JSON file.
-  - Provides accurate and contextual responses to user inputs.
-  - Multilingual capabilities to make it accessible to a broader audience.
-
-- 🔗 [Repository Link](https://github.com/a1regg/AI-chatbot)
-
----
-
-### 🖼 **Image Classificator**
-A CIFAR-10 image classification tool with a **real-time GUI** built using PyQt6.  
-
-- **Highlights**:
-  - Trained a deep learning model using TensorFlow and Keras on the CIFAR-10 dataset.
-  - Implemented a sleek GUI with drag-and-drop functionality for image prediction.
-  - User-friendly interface for interactive classification.
-
-- 🔗 [Repository Link](https://github.com/a1regg/image-classifier)
-
